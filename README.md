@@ -1,5 +1,5 @@
 # Phylosynteny
-this is a repository of scritps and analysis for the phylosynteny of gene families
+this is a repository of scripts and pipelines for the phylosynteny of gene families
 
 # Analysis of syntenic relationships of acyltransferase genes using a network approach
 
